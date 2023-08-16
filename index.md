@@ -1,30 +1,25 @@
----
-title: "My website"
-output: 
-  html_document:
-    toc: FALSE
----
+# About me - Jacob Osborne
+
+Thanks for visiting my page about me. This page shows a timeline of the last **10 years of my life**. Enjoy!
+
+
+## Secondary School
+Between 2012-2019 I attended Simon Langton Grammar School for Boys. Where I studied my **GCSE's** and **A-Levels**.
+
+
+## University 
+From 2019-2023 I studies for my university degree. I went to  [Brunel University London](https://www.brunel.ac.uk/).
+
+The course I completed was in *Industrial Design and Technology with Professional Practice*. In this degree I achieved a **1^st^ class Honors**. 
+
+
+## Placement
+During my placement year, 2020-21, I worked at a company called  [Powerflex](https://www.powerflex.co.uk/). This is an aftermarket automotive company who design and manufacture polyurethane suspension bushes and engine mounts. 
+
+
+## Planet Computers
+
+As a Graduate I have started working at  [Plant Computers](https://www.www3.planetcom.co.uk/). I started on the 14^th^ August 2023. 
 
 
 
-
-**Welcome to my website!**
-
-
-# Getting started
-
-Click the links in the menu above to look around.
-
-
-# Notes
-
-This website is a collection of regular (R)Markdown document, so you can use all the usual formatting.
-
-If you are new to R Markdown, you can learn more about it [on the R Markdown website](https://rmarkdown.rstudio.com/). 
-
-I also have a discussion of R Markdown and reproducibility [on one of my course pages](https://andreashandel.github.io/MADAcourse/1e_ToolsforReproducibility.html). You'll find additional links to potentially useful R Markdown (and Github) resources there.
-
-
-# This is an edit to see if this update the website
-
-I've changed the index.md file instead of the readme
