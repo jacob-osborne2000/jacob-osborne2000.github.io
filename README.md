@@ -15,7 +15,7 @@ This is the new Plant PC **Linux** mini Desktop PC
 ## Linux out of the box
 
 No more searching for drivers, compiling or configuring obscure parameters!\
-The XR series runs Ubuntu Linux and are based on ARM multicore processor technology. <img src=".gitbook/assets/XR_PPC-7-WEB.webp" alt="" data-size="original">
+The XR series runs Ubuntu Linux and is based on ARM multicore processor technology. <img src=".gitbook/assets/XR_PPC-7-WEB.webp" alt="" data-size="original">
 
 
 
@@ -55,7 +55,6 @@ Stereo speakers and a microphone are included for full out-of-the-box audio read
 
 ![](.gitbook/assets/ce2ef2\_be3be8fa21f343babe13da1ea214956f\~mv2.gif)
 
-\
 
 
 ***
